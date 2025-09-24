@@ -1,6 +1,6 @@
 # PROYECTO-EJEMPLO
 <div align="center">
-  <img src="sello-del-ejemplo-28420393.webp" alt="Descripción de la imagen">
+  <img src="sello-del-ejemplo-28420393.webp" alt="Descripción de la imagen" width="40%">
 </div>  
 
 ESTE ES E UN PROYECTO DE CIENCIA DE DATOS
