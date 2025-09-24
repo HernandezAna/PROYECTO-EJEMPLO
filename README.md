@@ -1,5 +1,7 @@
 # PROYECTO-EJEMPLO
-<img src="sello-del-ejemplo-28420393.webp" alt="Descripción de la imagen" width="40%" align="center">
+<div align="center">
+  <img src="sello-del-ejemplo-28420393.webp" alt="Descripción de la imagen">
+</div>  
 
 ESTE ES E UN PROYECTO DE CIENCIA DE DATOS
 JK.SDHGFJKSHJKCHSHKSDC
