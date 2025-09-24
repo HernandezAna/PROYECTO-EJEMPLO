@@ -1,5 +1,6 @@
 # PROYECTO-EJEMPLO
-![imgEjemplo](sello-del-ejemplo-28420393.webp)
+<img src="sello-del-ejemplo-28420393.webp" alt="Descripción de la imagen" width="50%">
+
 ESTE ES E UN PROYECTO DE CIENCIA DE DATOS
 JK.SDHGFJKSHJKCHSHKSDC
 C-SDKJCLKDJKSDCKLSDJCKLDCKJSDKLCJ
